@@ -1,1 +1,8 @@
-[{"title":"Buku"},{"title":"Pena"},{"title":"Rukiyah"},{"title":"second"},{"title":"dua"},{"title":"coba"}]
+[
+    {
+        "title": "Buku",
+        "imageUrl": "https://images.hukumonline.com/frontend/lt5f7b0c82c1f4c/lt5f7b0f1d89956.jpg",
+        "description": "20.01",
+        "price": "This is good book"
+    }
+]
